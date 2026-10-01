@@ -1,0 +1,11 @@
+Feature_Family,Feature,Selections,Selection_Frequency
+Graph,Max_Structural_Influence,34,0.68
+Graph,Max_GCCDC,34,0.68
+Graph,QAS_Median,15,0.3
+Graph,QAS_Mean,14,0.28
+Graph,GCC,3,0.06
+Hypergraph,Overlap_Pair_Fraction,50,1.0
+Hypergraph,Hyperdegree_Gini,46,0.92
+Hypergraph,Max_Hyperedge_Weight,2,0.04
+Hypergraph,Hyperdegree_Concentration,1,0.02
+Hypergraph,Mean_Overlap_Jaccard,1,0.02
