@@ -1,0 +1,30 @@
+.env
+*.env
+*.token
+*.key
+secrets.*
+.cache/
+huggingface/
+models/
+checkpoints/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Large model artifacts
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Local Colab / notebook scratch
+content/
+drive/
+tmp/
+
+# Optional large intermediate files
+data/raw/
+results/attention_matrices/
