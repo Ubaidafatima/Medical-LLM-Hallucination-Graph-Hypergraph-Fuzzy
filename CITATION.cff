@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the manuscript and this repository."
+title: "Attention Graph–Hypergraph and Fuzzy Fusion for Explainable Hallucination Risk Assessment in Medical Large Language Models"
+type: software
+authors:
+  - family-names: Fatima
+    given-names: Ubaida
+  - family-names: Ali
+    given-names: Mustafain
+year: 2026
+repository-code: "https://github.com/Ubaidafatima/Medical-LLM-Hallucination-Graph-Hypergraph-Fuzzy"
+license: MIT
+keywords:
+  - medical large language models
+  - hallucination
+  - attention graphs
+  - hypergraphs
+  - fuzzy logic
+  - MedGemma
+  - MedHallu
+  - explainable AI
