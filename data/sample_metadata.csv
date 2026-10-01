@@ -1,0 +1,101 @@
+Pair_ID,Difficulty,Hallucination_Category
+MEDH_001,easy,Incomplete Information
+MEDH_002,medium,Misinterpretation of #Question#
+MEDH_003,easy,Misinterpretation of #Question#
+MEDH_004,hard,Misinterpretation of #Question#
+MEDH_005,hard,Misinterpretation of #Question#
+MEDH_006,easy,Incomplete Information
+MEDH_007,medium,Misinterpretation of #Question#
+MEDH_008,medium,Misinterpretation of #Question#
+MEDH_009,hard,Misinterpretation of #Question#
+MEDH_010,easy,Misinterpretation of #Question#
+MEDH_011,medium,Misinterpretation of #Question#
+MEDH_012,hard,Incomplete Information
+MEDH_013,hard,Misinterpretation of #Question#
+MEDH_014,easy,Incomplete Information
+MEDH_015,easy,Misinterpretation of #Question#
+MEDH_016,hard,Misinterpretation of #Question#
+MEDH_017,medium,Misinterpretation of #Question#
+MEDH_018,medium,Misinterpretation of #Question#
+MEDH_019,easy,Misinterpretation of #Question#
+MEDH_020,medium,Misinterpretation of #Question#
+MEDH_021,hard,Misinterpretation of #Question#
+MEDH_022,easy,Misinterpretation of #Question#
+MEDH_023,medium,Misinterpretation of #Question#
+MEDH_024,hard,Misinterpretation of #Question#
+MEDH_025,medium,Incomplete Information
+MEDH_026,hard,Misinterpretation of #Question#
+MEDH_027,hard,Misinterpretation of #Question#
+MEDH_028,hard,Misinterpretation of #Question#
+MEDH_029,medium,Misinterpretation of #Question#
+MEDH_030,medium,Misinterpretation of #Question#
+MEDH_031,hard,Misinterpretation of #Question#
+MEDH_032,medium,Incomplete Information
+MEDH_033,easy,Incomplete Information
+MEDH_034,medium,Misinterpretation of #Question#
+MEDH_035,hard,Misinterpretation of #Question#
+MEDH_036,hard,Misinterpretation of #Question#
+MEDH_037,easy,Misinterpretation of #Question#
+MEDH_038,medium,Misinterpretation of #Question#
+MEDH_039,medium,Misinterpretation of #Question#
+MEDH_040,medium,Mechanism and Pathway Misattribution
+MEDH_041,hard,Misinterpretation of #Question#
+MEDH_042,medium,Incomplete Information
+MEDH_043,medium,Misinterpretation of #Question#
+MEDH_044,hard,Misinterpretation of #Question#
+MEDH_045,medium,Misinterpretation of #Question#
+MEDH_046,hard,Incomplete Information
+MEDH_047,hard,Misinterpretation of #Question#
+MEDH_048,medium,Incomplete Information
+MEDH_049,hard,Misinterpretation of #Question#
+MEDH_050,medium,Misinterpretation of #Question#
+MEDH_051,easy,Incomplete Information
+MEDH_052,medium,Misinterpretation of #Question#
+MEDH_053,easy,Misinterpretation of #Question#
+MEDH_054,medium,Misinterpretation of #Question#
+MEDH_055,hard,Misinterpretation of #Question#
+MEDH_056,easy,Misinterpretation of #Question#
+MEDH_057,hard,Misinterpretation of #Question#
+MEDH_058,hard,Incomplete Information
+MEDH_059,hard,Misinterpretation of #Question#
+MEDH_060,easy,Incomplete Information
+MEDH_061,medium,Misinterpretation of #Question#
+MEDH_062,hard,Incomplete Information
+MEDH_063,easy,Misinterpretation of #Question#
+MEDH_064,easy,Misinterpretation of #Question#
+MEDH_065,easy,Misinterpretation of #Question#
+MEDH_066,hard,Incomplete Information
+MEDH_067,hard,Misinterpretation of #Question#
+MEDH_068,easy,Misinterpretation of #Question#
+MEDH_069,hard,Misinterpretation of #Question#
+MEDH_070,hard,Misinterpretation of #Question#
+MEDH_071,hard,Misinterpretation of #Question#
+MEDH_072,medium,Misinterpretation of #Question#
+MEDH_073,hard,Misinterpretation of #Question#
+MEDH_074,easy,Misinterpretation of #Question#
+MEDH_075,hard,Misinterpretation of #Question#
+MEDH_076,hard,Misinterpretation of #Question#
+MEDH_077,hard,Misinterpretation of #Question#
+MEDH_078,easy,Misinterpretation of #Question#
+MEDH_079,medium,Misinterpretation of #Question#
+MEDH_080,medium,Misinterpretation of #Question#
+MEDH_081,medium,Incomplete Information
+MEDH_082,hard,Misinterpretation of #Question#
+MEDH_083,hard,Incomplete Information
+MEDH_084,hard,Incomplete Information
+MEDH_085,hard,Misinterpretation of #Question#
+MEDH_086,medium,Mechanism and Pathway Misattribution
+MEDH_087,hard,Misinterpretation of #Question#
+MEDH_088,easy,Incomplete Information
+MEDH_089,medium,Misinterpretation of #Question#
+MEDH_090,easy,Mechanism and Pathway Misattribution
+MEDH_091,hard,Misinterpretation of #Question#
+MEDH_092,hard,Misinterpretation of #Question#
+MEDH_093,medium,Misinterpretation of #Question#
+MEDH_094,medium,Incomplete Information
+MEDH_095,easy,Misinterpretation of #Question#
+MEDH_096,easy,Misinterpretation of #Question#
+MEDH_097,easy,Misinterpretation of #Question#
+MEDH_098,easy,Misinterpretation of #Question#
+MEDH_099,hard,Misinterpretation of #Question#
+MEDH_100,easy,Misinterpretation of #Question#
